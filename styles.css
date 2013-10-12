@@ -1,0 +1,165 @@
+body {
+	background-color:#222222;
+	text-align:center;
+	font-family:"Arial", sans-serif;
+}
+
+.header {
+	text-align:center;
+}
+
+.logo {
+	margin:0 auto;
+	padding-bottom:12px;
+}
+
+.dropdown ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	position:relative;
+}
+
+.dropdown li {
+	float:left;
+	position:relative;
+	background-color:#DD2222;
+
+}
+
+.dropdown li:first-child {
+	border-top-left-radius:4px;
+	border-bottom-left-radius:4px;
+}
+
+.dropdown li:last-child {
+	border-top-right-radius:4px;
+	border-bottom-right-radius:4px;
+}
+
+.dropdown li li:first-child {
+	border-radius:0px;
+}
+
+.dropdown li li:last-child {
+	border-top-left-radius:0px;
+	border-top-right-radius:0px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+}
+
+.dropdown li ul {
+	display:none;
+	position:absolute;
+	top:100%;
+	left:0%;
+}
+
+.dropdown li:hover ul {
+	display:inline;
+	clear:both;
+}
+
+.dropdown li:hover ul li {
+	float:none;
+}
+
+.dropdown a {
+	display:block;
+	width:120px;
+	color:#FFFFFF;
+	text-align:center;
+	padding:4px;
+	border-radius:4px;
+	border-color:none;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.dropdown li:hover a {
+	background-color:#444444;
+}
+
+.dropdown li:hover ul a {
+	background:#DD2222;
+}
+
+.dropdown li:hover ul a:hover {
+	background:#666666;
+}
+
+.content {
+	clear:both;
+	margin:0 auto;
+	height:500px;
+	text-align:center;
+	border-top:4px solid;
+	border-bottom:4px solid;
+	border-color:#222222;
+	border-radius:4px;
+}
+
+.sidebar {
+	float:left;
+	width:19.75%;
+	height:100%;
+}
+
+.twitter-timeline {
+	width:100%;
+	height:100%;
+}
+
+.content-table {
+	margin:0 auto;
+	width:95%;
+	height:85%;
+	border:2px solid black;
+	border-collapse:collapse;
+}
+
+.half-content-table {
+	width:48%;
+	height:85%;
+	border:2px solid black;
+	border-collapse:collapse;
+	margin-left:1%;
+	margin-right:1%;
+	float:right;
+}
+
+.robotimg {
+	max-width:48%;
+	max-height:85%;
+	padding-left:1%;
+	padding-right:1%;
+	float:left;
+}
+
+.icon {
+	margin:0 auto;
+	height:60px;
+	padding:2px;
+}
+
+.page {
+	float:right;
+	width:79.75%;
+	height:100%;
+	background-color:#DDDDDD;
+	border-radius:4px;
+	overflow:hidden;
+	text-overflow:clip;
+}
+
+.footer {
+	margin:0 auto;
+	background-color:#DDDDDD;
+	color:#000000;
+	border-radius:4px;
+}
+
+.wrapper {
+	margin:0 auto;
+	width:1024px;
+}
