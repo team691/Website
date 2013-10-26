@@ -51,9 +51,9 @@
 						</ul>
 					</li>
 					<li><a href="?p=calendar">Calendar</a></li>
-					<li><a href="?p=support">Support</a></li>
 					<li><a href="http://team691.spreadshirt.com">Shop</a></li>
 					<li><a href="?p=donate">Donate</a></li>
+					<li><a href="?p=contactus">Contact Us</a></li>
 				</ul>
 			</div>
 		</div>
@@ -83,7 +83,7 @@
 
 		<!-- FOOTER START -->
 		<div class="footer">
-			<strong>Copyright (c) 2013 Techwolf. | Design & code by Techwolf.</strong>
+			<strong>Copyright (c) 2013 Techwolf / Project 691. | Design & code by Techwolf.</strong>
 		</div>
 		<!-- FOOTER END -->
 	</div>
