@@ -29,7 +29,6 @@ table {
 	float:left;
 	position:relative;
 	background-color:#DD2222;
-
 }
 
 .dropdown li:first-child {
@@ -143,7 +142,6 @@ table {
 .robotimg {
 	max-width:100%;
 	max-height:100%;
-	position:relative;
 	margin:auto;
 }
 
