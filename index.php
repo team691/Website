@@ -13,7 +13,7 @@
 	<div class="wrapper">
 		<!-- HEADER START -->
 		<div class="header">
-			<a href="/"><img class="logo" src="logo.png"></a>
+			<a href="."><img class="logo" src="logo.png"></a>
 			<div class="dropdown">
 				<ul>
 					<li><a href="?p=home">Home</a></li>
@@ -47,7 +47,7 @@
 							<li><a href="?p=robots-mostlyharmless">Mostly Harmless</a></li>
 							<li><a href="?p=robots-masterchief">Master Chief</a></li>
 							<li><a href="?p=robots-divineintervention">Divine Intervention</a></li>
-							<li><a href="?p=robots-dafuzz">Da Fuzz</a></li>
+							<li><a href="?p=robots-bluebot">Blue Bot</a></li>
 						</ul>
 					</li>
 					<li><a href="?p=calendar">Calendar</a></li>
