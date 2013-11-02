@@ -50,7 +50,7 @@
 						</ul>
 					</li>
 					<li><a href="?p=calendar">Calendar</a></li>
-					<li><a href="http://team691.spreadshirt.com">Shop</a></li>
+					<li><a href="?p=shop">Shop</a></li>
 					<li><a href="?p=donate">Donate</a></li>
 					<li><a href="?p=contactus">Contact Us</a></li>
 				</ul>
