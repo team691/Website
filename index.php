@@ -21,12 +21,12 @@
 						<ul>
 							<li><a href="http://baylessengineering.com">Bayless Engineering</a></li>
 							<li><a href="http://jpl.nasa.gov">NASA JPL</a></li>
-							<li><a href="http://ndep.nih.gov">NDEP</a></li>
-							<li><a href="http://airgas.com">Airgas</a></li>
 							<li><a href="http://sjmfoundation.com">St. Jude</a></li>
-							<li><a href="http://appliedcompanies.net">Applied Companies</a></li>
-							<li><a href="http://thescmg.com">SCMG</a></li>
 							<li><a href="http://raytheon.com">Raytheon</a></li>
+							<li><a href="http://ndep.nih.gov">NDEP</a></li>
+							<li><a href="http://appliedcompanies.net">Applied Companies</a></li>
+							<li><a href="http://airgas.com">Airgas</a></li>
+							<li><a href="http://thescmg.com">SCMG</a></li>
 						</ul>
 					</li>
 					<li>
@@ -82,7 +82,17 @@
 
 		<!-- FOOTER START -->
 		<div class="footer">
-			<strong>Copyright (c) 2013 Techwolf / Project 691. | Design & code by Techwolf.</strong>
+			Copyright (c) 2013 Techwolf / Project 691. | Design & code by Techwolf.
+		</div>
+		<div class="sponsorfooter">
+			<img class="xlarge sponsoricon" src="images/sponsors/baylessengineering.png">
+			<img class="large sponsoricon" src="images/sponsors/nasa.png"><img class="large sponsoricon" src="images/sponsors/jpl.png">
+			<img class="large sponsoricon" src="images/sponsors/stjude.png">
+			<img class="medium sponsoricon" src="images/sponsors/raytheon.jpg">
+			<img class="medium sponsoricon" src="images/sponsors/ndep.png">
+			<img class="small sponsoricon" src="images/sponsors/appliedcompanies.png">
+			<img class="small sponsoricon" src="images/sponsors/airgas.png">
+			<img class="small sponsoricon" src="images/sponsors/scmg.png">
 		</div>
 		<!-- FOOTER END -->
 	</div>

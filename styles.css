@@ -163,9 +163,39 @@ table {
 
 .footer {
 	margin:4px auto;
-	padding-bottom:4px;
 	background-color:#DDDDDD;
 	border-radius:4px;
+	font-weight:bold;
+}
+
+.sponsorfooter {
+	width:100%;
+	margin-bottom:4px;
+	padding:4px 0;
+	border-radius:4px;
+	background-color:#DDDDDD;
+}
+
+.sponsoricon {
+	display:table-cell;
+	vertical-align:middle;
+	padding:0 2px;
+}
+
+.xlarge {
+	height:70px;
+}
+
+.large {
+	height:50px;
+}
+
+.medium {
+	height:35px;
+}
+
+.small {
+	height:25px;
 }
 
 .wrapper {
