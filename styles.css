@@ -177,7 +177,6 @@ table {
 }
 
 .sponsoricon {
-	display:table-cell;
 	vertical-align:middle;
 	padding:0 2px;
 }
