@@ -11,6 +11,12 @@ table {
 	border-collapse:collapse;
 }
 
+.wrapper {
+	margin:0 auto;
+	min-width:1024px;
+	max-width:80%;
+}
+
 .header {
 	text-align:center;
 }
@@ -198,9 +204,4 @@ table {
 
 .small {
 	height:25px;
-}
-
-.wrapper {
-	margin:0 auto;
-	width:1024px;
 }
