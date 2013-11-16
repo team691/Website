@@ -21,6 +21,7 @@ table {
 }
 
 .dropdown ul {
+	width:100%;
 	list-style-type:none;
 	margin:0;
 	padding:0;
@@ -28,6 +29,7 @@ table {
 
 .dropdown li {
 	float:left;
+	width:12.5%;
 	position:relative;
 	background-color:#DD2222;
 }
@@ -67,14 +69,15 @@ table {
 
 .dropdown li:hover ul li {
 	float:none;
+	width:100%;
 }
 
 .dropdown a {
 	display:block;
-	width:120px;
+	width:100%;
 	color:#FFFFFF;
 	text-align:center;
-	padding:4px;
+	padding:4px 0;
 	border-radius:4px;
 	border-color:none;
 	font-weight:bold;
