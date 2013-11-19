@@ -5,6 +5,7 @@
 	<title>
 		FRC Team 691 - Hart District Robotics
 	</title>
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
