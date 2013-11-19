@@ -131,6 +131,7 @@ table {
 	height:85%;
 	border:2px solid black;
 	border-collapse:collapse;
+	text-align:center;
 }
 
 .half-content {
