@@ -106,8 +106,9 @@ table {
 	clear:both;
 	margin:0 auto;
 	padding:4px 0;
-	height:100%;
-	min-height:420px;
+	height:500px;
+	display:block;
+	overflow:auto;
 	text-align:center;
 	border-color:#222222;
 	border-radius:4px;
@@ -116,7 +117,7 @@ table {
 .sidebar {
 	float:left;
 	width:19.75%;
-	height:420px;
+	height:100%;
 	border-radius:4px;
 	background-color:#444444;
 }
