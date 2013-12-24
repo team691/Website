@@ -70,7 +70,7 @@
 			<!-- SIDEBAR END -->
 
 			<!-- PAGE START -->
-			<div id="page" class="page">
+			<div class="page">
 				<?php
 					$page = isset($_GET["p"]) ? file_get_contents("pages/".str_replace("-", "/", $_GET["p"]).".html") : file_get_contents("pages/home.html");
 					echo $page;
