@@ -88,7 +88,7 @@
 			<img class="xlarge sponsoricon" src="images/sponsors/baylessengineering.png">
 			<img class="large sponsoricon" src="images/sponsors/nasa.png"><img class="large sponsoricon" src="images/sponsors/jpl.png">
 			<img class="large sponsoricon" src="images/sponsors/stjude.png">
-			<img class="medium sponsoricon" src="images/sponsors/raytheon.jpg">
+			<img class="medium sponsoricon" src="images/sponsors/raytheon.png">
 			<img class="medium sponsoricon" src="images/sponsors/ndep.png">
 			<img class="small sponsoricon" src="images/sponsors/appliedcompanies.png">
 			<img class="small sponsoricon" src="images/sponsors/airgas.png">
