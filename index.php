@@ -34,7 +34,6 @@
 						<a href="?p=aboutus">About Us</a>
 						<ul>
 							<li><a href="?p=aboutus-whoarewe">Who Are We?</a></li>
-							<li><a href="?p=aboutus-meettheteam">Meet the Team</a></li>
 							<li><a href="?p=aboutus-awards">Awards</a></li>
 							<li><a href="?p=aboutus-media">Media</a></li>
 							<li><a href="?p=aboutus-faq">FAQ</a></li>

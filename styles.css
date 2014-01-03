@@ -179,11 +179,17 @@ table {
 }
 
 .sponsorfooter {
-	width:100%;
 	margin-bottom:4px;
-	padding:4px 0;
+	padding:4px;
 	border-radius:4px;
 	background-color:#DDDDDD;
+	text-align:justify;
+}
+
+.sponsorfooter:after {
+	content:'';
+	width:100%;
+	display:inline-block;
 }
 
 .sponsoricon {
