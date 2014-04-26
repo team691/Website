@@ -83,7 +83,7 @@
 
 		<!-- FOOTER START -->
 		<div class="footer">
-			Copyright (c) 2013 Techwolf / Project 691. | Design & code by Techwolf.
+			Copyright (c) 2013 Techwolf / Project 691. | Design & <a href="https://github.com/team691/website">code</a> by Techwolf.
 		</div>
 		<div class="sponsorfooter">
 			<img class="xlarge sponsoricon" src="images/sponsors/baylessengineering.png">
