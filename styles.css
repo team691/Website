@@ -11,6 +11,11 @@ table {
 	border-collapse:collapse;
 }
 
+th, td {
+	padding:4px;
+	border:1px solid grey;
+}
+
 .wrapper {
 	margin:0 auto;
 	min-width:1280px;
@@ -154,8 +159,6 @@ table {
 .content-table {
 	margin:0 auto 1% auto;
 	width:95%;
-	border:2px solid black;
-	border-collapse:collapse;
 	text-align:center;
 }
 
