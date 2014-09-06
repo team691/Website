@@ -13,7 +13,7 @@ table {
 
 .wrapper {
 	margin:0 auto;
-	min-width:1024px;
+	min-width:1280px;
 	max-width:80%;
 }
 
@@ -106,7 +106,6 @@ table {
 	clear:both;
 	margin:0 auto;
 	padding:4px 0;
-	height:500px;
 	display:block;
 	overflow:auto;
 	text-align:center;
@@ -117,20 +116,44 @@ table {
 .sidebar {
 	float:left;
 	width:19.75%;
-	height:100%;
+	min-height:512px;
 	border-radius:4px;
 	background-color:#444444;
 }
 
 .twitter-timeline {
 	width:100%;
-	height:100%;
+	height:450px;
+}
+
+.socialmedia {
+	padding:4px;
+	text-align:justify;
+}
+
+.socialmedia:after {
+	content:"";
+	width:100%;
+	display:inline-block;
+}
+
+.socialicon {
+	width:20%;
+	vertical-align:middle;
+	padding:2px;
+}
+
+.page {
+	float:right;
+	width:79.75%;
+	min-height:512px;
+	background-color:#DDDDDD;
+	border-radius:4px;
 }
 
 .content-table {
-	margin:0 auto;
+	margin:0 auto 1% auto;
 	width:95%;
-	height:85%;
 	border:2px solid black;
 	border-collapse:collapse;
 	text-align:center;
@@ -138,9 +161,7 @@ table {
 
 .half-content {
 	width:48%;
-	height:85%;
-	margin-left:1%;
-	margin-right:1%;
+	margin:0 1% 1% 1%;
 }
 
 .right {
@@ -153,8 +174,6 @@ table {
 
 .robotimg {
 	max-width:100%;
-	max-height:100%;
-	margin:auto;
 }
 
 .icon {
@@ -163,15 +182,8 @@ table {
 	padding:2px;
 }
 
-.page {
-	float:right;
-	width:79.75%;
-	height:100%;
-	background-color:#DDDDDD;
-	border-radius:4px;
-}
-
 .footer {
+	clear:both;
 	margin-bottom:4px;
 	background-color:#DDDDDD;
 	border-radius:4px;
@@ -187,7 +199,7 @@ table {
 }
 
 .sponsorfooter:after {
-	content:'';
+	content:"";
 	width:100%;
 	display:inline-block;
 }

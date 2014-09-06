@@ -66,6 +66,11 @@
 			<div class="sidebar">
 				<a class="twitter-timeline" href="https://twitter.com/project691" data-widget-id="386721008700252160">Tweets by @Project691</a>
 				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				<div class="socialmedia">
+					<a href="https://www.facebook.com/team691"><img class="socialicon" src="images/icons/facebook.png"></a>
+					<a href="https://twitter.com/project691"><img class="socialicon" src="images/icons/twitter.png"></a>
+					<a href="https://www.youtube.com/user/Hartrobotics691"><img class="socialicon" src="images/icons/youtube.png"></a>
+				</div>
 			</div>
 			<!-- SIDEBAR END -->
 
