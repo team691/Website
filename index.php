@@ -77,8 +77,17 @@
 			<!-- PAGE START -->
 			<div class="page">
 				<?php
-					$page = isset($_GET["p"]) ? file_get_contents("pages/".str_replace("-", "/", $_GET["p"]).".html") : file_get_contents("pages/home.html");
-					echo $page;
+					if(isset($_GET["p"])) {
+						$page = "pages/" . str_replace("-", "/", $_GET["p"]) . ".html";
+						if(file_exists($page)) {
+							include($page);
+						} else {
+							$_GET["err"] = 404;
+							require("pages/error.html");
+						}
+					} else {
+						require("pages/home.html");
+					}
 				?>
 			</div>
 			<!-- PAGE END -->
