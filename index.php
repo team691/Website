@@ -20,15 +20,16 @@
 					<li>
 						<a href="?p=sponsors">Sponsors</a>
 						<ul>
+							<li><a href="http://appliedcompanies.com">Applied Companies</a></li>
 							<li><a href="http://baylessengineering.com">Bayless Engineering</a></li>
 							<li><a href="http://jpl.nasa.gov">NASA JPL</a></li>
 							<li><a href="http://sjmfoundation.com">St. Jude</a></li>
-							<li><a href="http://raytheon.com">Raytheon</a></li>
+							<li><a href="http://solidworks.com">Solidworks</a></li>
 							<li><a href="http://bostonscientific.com">Boston Scientific</a></li>
 							<li><a href="http://ndep.us">NDEP</a></li>
-							<li><a href="http://appliedcompanies.net">Applied Companies</a></li>
-							<li><a href="http://airgas.com">Airgas</a></li>
-							<li><a href="http://thescmg.com">SCMG</a></li>
+							<li><a href="http://scautobrokers.net">SC Auto Brokers</a></li>
+							<li><a href="http://utak.com">UTAK</a></li>
+							<li><a href="http://nbsparts.com">National Bandsaw Company</a></li>
 						</ul>
 					</li>
 					<li>
@@ -100,15 +101,16 @@
 			Copyright &copy; 2013-<?php echo date("Y"); ?> Techwolf / Project 691. | Design & <a href="https://github.com/team691/website">code</a> by Techwolf.
 		</div>
 		<div class="sponsorfooter">
+			<img class="xlarge sponsoricon" src="images/sponsors/appliedcompanies.png">
 			<img class="xlarge sponsoricon" src="images/sponsors/baylessengineering.png">
 			<img class="large sponsoricon" src="images/sponsors/nasa.png"><img class="large sponsoricon" src="images/sponsors/jpl.png">
 			<img class="large sponsoricon" src="images/sponsors/stjude.png">
-			<img class="medium sponsoricon" src="images/sponsors/raytheon.png">
+			<img class="large sponsoricon" src="images/sponsors/solidworks.png">
 			<img class="medium sponsoricon" src="images/sponsors/bostonscientific.png">
 			<img class="medium sponsoricon" src="images/sponsors/ndep.png">
-			<img class="small sponsoricon" src="images/sponsors/appliedcompanies.png">
-			<img class="small sponsoricon" src="images/sponsors/airgas.png">
-			<img class="small sponsoricon" src="images/sponsors/scmg.png">
+			<img class="small sponsoricon" src="images/sponsors/scautobrokers.png">
+			<img class="small sponsoricon" src="images/sponsors/utak.png">
+			<img class="small sponsoricon" src="images/sponsors/nbscompany.png">
 		</div>
 		<!-- FOOTER END -->
 	</div>

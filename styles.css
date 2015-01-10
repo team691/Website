@@ -182,7 +182,7 @@ th, td {
 .icon {
 	margin:0 auto;
 	height:60px;
-	padding:2px;
+	padding:2px 4px;
 }
 
 .footer {
@@ -226,4 +226,33 @@ th, td {
 
 .small {
 	height:25px;
+}
+
+.sponsorborder {
+	margin:0 4px 4px 4px;
+	padding:4px;
+	border:4px solid;
+	border-radius:4px;
+	list-style-type:none;
+	text-align:center;
+}
+
+.diamond {
+	border-color:#48D1CC;
+}
+
+.platinum {
+	border-color:#696969;
+}
+
+.gold {
+	border-color:#B8860B;
+}
+
+.silver {
+	border-color:#808080;
+}
+
+.bronze {
+	border-color:#D2691E;
 }
