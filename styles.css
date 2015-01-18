@@ -185,15 +185,18 @@ th, td {
 	padding:2px 4px;
 }
 
+.license {
+	padding-left:25%;
+	text-align:left;
+}
+
 .footer {
-	clear:both;
 	margin-bottom:4px;
-	background-color:#DDDDDD;
-	border-radius:4px;
-	font-weight:bold;
+	color:#AAAAAA;
 }
 
 .sponsorfooter {
+	clear:both;
 	margin-bottom:4px;
 	padding:4px;
 	border-radius:4px;

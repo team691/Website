@@ -97,9 +97,6 @@
 		<!-- CONTENT END -->
 
 		<!-- FOOTER START -->
-		<div class="footer">
-			Copyright &copy; 2013-<?php echo date("Y"); ?> Techwolf / Project 691. | Design & <a href="https://github.com/team691/website">code</a> by Techwolf.
-		</div>
 		<div class="sponsorfooter">
 			<img class="xlarge sponsoricon" src="images/sponsors/appliedcompanies.png">
 			<img class="xlarge sponsoricon" src="images/sponsors/baylessengineering.png">
@@ -111,6 +108,9 @@
 			<img class="small sponsoricon" src="images/sponsors/scautobrokers.png">
 			<img class="small sponsoricon" src="images/sponsors/utak.png">
 			<img class="small sponsoricon" src="images/sponsors/nbscompany.png">
+		</div>
+		<div class="footer">
+			Copyright &copy; 2013-<?php echo date("Y"); ?> Project 691 Robotics. | Code available on <a href="https://github.com/team691/website">Github</a>. | Licensed under the <a href="?p=license">GNU GPLv2</a>.
 		</div>
 		<!-- FOOTER END -->
 	</div>
