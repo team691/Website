@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; Charset=UTF-8">
 	<title>
-		FRC Team 691 - Hart District Robotics
+		FRC Team 691 - Project 691 Robotics
 	</title>
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<link rel="stylesheet" type="text/css" href="styles.css">
@@ -44,6 +44,7 @@
 					<li>
 						<a href="?p=robots">Robots</a>
 						<ul>
+							<li><a href="?p=robots-blackwing">Blackwing</a></li>
 							<li><a href="?p=robots-doom">Doom</a></li>
 							<li><a href="?p=robots-mostlyharmless">Mostly Harmless</a></li>
 							<li><a href="?p=robots-masterchief">Master Chief</a></li>
