@@ -29,7 +29,10 @@
 							<li><a href="http://ndep.us">NDEP</a></li>
 							<li><a href="http://scautobrokers.net">SC Auto Brokers</a></li>
 							<li><a href="http://utak.com">UTAK</a></li>
+							<li><a href="http://aeroeng.com">Aero Engineering</a></li>
 							<li><a href="http://nbsparts.com">National Bandsaw Company</a></li>
+							<li><a href="http://wireandcable.com">Whitmor/Wirenetics</a></li>
+							<li><a href="http://magicplastics.com">Magic Plastics</a></li>
 						</ul>
 					</li>
 					<li>
