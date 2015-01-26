@@ -20,7 +20,7 @@
 					<li>
 						<a href="?p=sponsors">Sponsors</a>
 						<ul>
-							<li><a href="http://appliedcompanies.com">Applied Companies</a></li>
+							<li><a href="http://appliedcompanies.net">Applied Companies</a></li>
 							<li><a href="http://baylessengineering.com">Bayless Engineering</a></li>
 							<li><a href="http://jpl.nasa.gov">NASA JPL</a></li>
 							<li><a href="http://sjmfoundation.com">St. Jude</a></li>
