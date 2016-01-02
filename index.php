@@ -47,6 +47,7 @@
 					<li>
 						<a href="?p=robots">Robots</a>
 						<ul>
+							<li><a href="?p=robots-nighthawk">Nighthawk</a></li>
 							<li><a href="?p=robots-blackwing">Blackwing</a></li>
 							<li><a href="?p=robots-doom">Doom</a></li>
 							<li><a href="?p=robots-mostlyharmless">Mostly Harmless</a></li>
