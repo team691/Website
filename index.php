@@ -13,7 +13,7 @@
 	<div class="wrapper">
 		<!-- HEADER START -->
 		<div class="header">
-			<a href="."><img class="logo" src="logo.png"></a>
+			<a href="."><img class="logo" src="logo.png" height="120"></a>
 			<div class="dropdown">
 				<ul>
 					<li><a href="?p=home">Home</a></li>
