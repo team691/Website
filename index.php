@@ -21,8 +21,6 @@
 						<a href="?p=sponsors">Sponsors</a>
 						<ul>
 							<li><a href="http://appliedcompanies.net">Applied Companies</a></li>
-							<li><a href="http://baylessengineering.com">Bayless Engineering</a></li>
-							<li><a href="http://jpl.nasa.gov">NASA JPL</a></li>
 							<li><a href="http://sjmfoundation.com">St. Jude</a></li>
 							<li><a href="http://solidworks.com">Solidworks</a></li>
 							<li><a href="http://bostonscientific.com">Boston Scientific</a></li>
@@ -33,6 +31,9 @@
 							<li><a href="http://nbsparts.com">National Bandsaw Company</a></li>
 							<li><a href="http://wireandcable.com">Whitmor/Wirenetics</a></li>
 							<li><a href="http://magicplastics.com">Magic Plastics</a></li>
+                            <li><div style="background-color:white;foreground-color:black">Past Sponsors<div></li>
+							<li><a href="http://baylessengineering.com">Bayless Engineering</a></li>
+							<li><a href="http://jpl.nasa.gov">NASA JPL</a></li>
 						</ul>
 					</li>
 					<li>
@@ -104,8 +105,9 @@
 		<!-- FOOTER START -->
 		<div class="sponsorfooter">
 			<img class="xlarge sponsoricon" src="images/sponsors/appliedcompanies.png">
-			<img class="xlarge sponsoricon" src="images/sponsors/baylessengineering.png">
-			<img class="large sponsoricon" src="images/sponsors/nasa.png"><img class="large sponsoricon" src="images/sponsors/jpl.png">
+			<!--img class="xlarge sponsoricon" src="images/sponsors/baylessengineering.png"-->
+			<!--img class="large sponsoricon" src="images/sponsors/nasa.png"-->
+            <!--img class="large sponsoricon" src="images/sponsors/jpl.png"-->
 			<img class="large sponsoricon" src="images/sponsors/stjude.png">
 			<img class="large sponsoricon" src="images/sponsors/solidworks.png">
 			<img class="medium sponsoricon" src="images/sponsors/bostonscientific.png">
